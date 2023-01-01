@@ -15,18 +15,18 @@
     "@babel/core": "^7.9.0",
     "@babel/preset-env": "^7.9.0",
     "@babel/preset-react": "^7.9.1",
-    "babel-loader": "^8.1.0",
+    "babel-loader": "^8.3.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "html-webpack-plugin": "^4.0.1",
+    "html-webpack-plugin": "^5.5.0",
     "nodemon": "^2.0.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "webpack": "^4.42.0",
+    "webpack": "^5.75.0",
     "webpack-merge": "^4.2.2"
   },
   "devDependencies": {
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "webpack-cli": "^3.3.11"
+    "webpack-cli": "^5.0.1"
   }
 }
